@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+ body{
+    background-color: aqua;
+    background-color: #13262F;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+.container{
+    min-height: 200px;
+    min-width: 150px;
+    background-color: antiquewhite;
+    border-radius:10px solid #E9E6FF;
+    background-color: #244359;
+    margin-top: 100px;
+    padding: 60px;
+
+} 
+p{
+    margin: 20px;;
+}
